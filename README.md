@@ -13,9 +13,8 @@ We have documents explaining stuff
 1. [How to Dual Boot your PC](/extras/Dual_Boot_PC.pdf)
 
 ## Step 2(a) : Learn how to use git 
-Please follow this no nonsense [guide](https://rogerdudler.github.io/git-guide/) to git
-
-We also have a [cheatsheet](/extras/git_cheat_sheet.pdf) for you guys to follow
+Please follow this [guide](git_basics.md) to git
+To know more about git, Check ou this [guide](https://rogerdudler.github.io/git-guide/)
 
 ### Practical 
 
