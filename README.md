@@ -20,7 +20,7 @@ To know more about git, Check ou this [guide](https://rogerdudler.github.io/git-
 
 ### Practical 
 
-1. Clone this repository
+1. Clone this repository - http://gitlab.iotiot.in:9999/yh42/iotiot.in-on-boarding.git
 2. Create a branch with branch name = "Your Full Name"
 3. Run check.sh script
 4. Add the Summary of the Video to the repository (20hr-learning-summary.md)
