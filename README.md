@@ -46,7 +46,10 @@ Name it 20hr-learning-summary.md
 
 1. We have a very flat culture.
 2. You are accountable for your task/issue.
-3. You should be empathic in your documentation/summary, Please donot work in assignment mode.
+3. You should be empathetic in your documentation (make it super easy for 
+others to understand with diagrams flow charts and minimal bookish language)
+
+Please donot work in assignment mode.
 
 Hope you have followed this in your "20 hr learning video summary". 
 
