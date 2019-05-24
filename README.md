@@ -63,6 +63,9 @@ You will only be able to perform point 6 if you get approved by the Admin.
 6. Push the changes to the remote repository
 
 ## Step 4 : Learn About the culture of our company
+Culture is more important for us that code.
+
+Know our mission : bit.ly/iotiotvision
 
 1. We have a very flat culture.No hierarchy, if you are part of any team , 
 you must be told the goal you are working towards , your task cannot be a just a task you are asked to complete.
