@@ -23,3 +23,5 @@ Done you will be registered
 5. Request Access
 
 ![](/extras/004.png)
+
+### Your request will be approved by the Admin. May take upto 24 hours for approval. Please be patient.

@@ -40,8 +40,13 @@ Write a Summary on "Gitlab Issues" and add it to your branch in git. (You know t
 
 20hr Learning [Video](https://www.youtube.com/watch?v=5MgBikgcWnY)
 
-Please write a Summary of the video.Write concise , the lesser the better but must cover all key points.
+Please write a Summary of the video. Write concise, the lesser the better but must cover all key points.
+
 Name it 20hr-learning-summary.md
+
+Before doing the practical, Ensure you have completed all the steps given [here](Register.md).
+
+You will only be able to perform point 6 if you get approved by the Admin.
 
 ### Practical -Your real test here
 
