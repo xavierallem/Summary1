@@ -1,31 +1,27 @@
 # IoTIoT.in On Boarding
 
-Got selected for the Internship ?
 Want to join IoTIoT.in ?
-Eklavya program ?
 
-Before we even start lets make sure you have the pre-requsities
+How to read this document ? 
+You must have atleast 2-3 hours of free time, stable internet, atleast 2gb usb disk ,to complete all steps given here.
+You will have to read carefully , understand and do things .
+This basic document itself helps you move from student to professional level .
+So please approach this with professionalism. Dont try to somehow complete tasks here like any other college assignment.
+
+
+The pre-requsities
 
 ## Step 1 : Install Ubuntu 16.04 on your Laptop
 
 We have documents explaining stuff
 
-1. [How to Dual Boot your PC](/extras/Dual_Boot_PC.pdf)
+1. [How to Install Ubuntu(dual boot)](/extras/Dual_Boot_PC.pdf)
 
 ## Step 2(a) : Learn how to use git 
 
 Please follow this [guide](git_basics.md) to git
 
-To know more about git, Check ou this [guide](https://rogerdudler.github.io/git-guide/)
-
-### Practical 
-
-1. Clone this repository - http://gitlab.iotiot.in:9999/yh42/iotiot.in-on-boarding.git
-2. Create a branch with branch name = "Your Full Name"
-3. Run check.sh script
-4. Add the Summary of the Video to the repository (20hr-learning-summary.md)
-5. Commit all your changes 
-6. Push the changes to the remote repository
+Optional : To learn more about git, Check ou this [guide](https://rogerdudler.github.io/git-guide/)
 
 ## Step 2(b) : Learn how to use Gitlab
 We do all our work inside Gitlab.
@@ -39,31 +35,39 @@ Write a Summary on "Gitlab Issues" and add it to your branch in git. (You know t
 
 20hr Learning [Video](https://www.youtube.com/watch?v=5MgBikgcWnY)
 
-Please write a Summary of the video.
+Please write a Summary of the video.Write concise , the lesser the better but must cover all key points.
 Name it 20hr-learning-summary.md
+
+### Practical -Your real test here
+
+1. Clone this repository - http://gitlab.iotiot.in:9999/yh42/iotiot.in-on-boarding.git
+2. Create a branch with branch name = "Your Full Name"
+3. Run check.sh script
+4. Add the Summary of the Video to the repository (20hr-learning-summary.md)
+5. Commit all your changes (include all  files in your directory)
+6. Push the changes to the remote repository
 
 ## Step 4 : Learn About the culture of our company
 
-1. We have a very flat culture.
+1. We have a very flat culture.No hierarchy, if you are part of any team , 
+you must be told the goal you are working towards , your task cannot be a just a task you are asked to complete.
 2. You are accountable for your task/issue.
 3. You should be empathetic in your documentation (make it super easy for 
 others to understand with diagrams flow charts and minimal bookish language)
+4.Please donot work in college assignment mode.
 
-Please donot work in assignment mode.
 
-Hope you have followed this in your "20 hr learning video summary". 
-
-We have a daily review at 4:00 pm everyday.
+We have a daily review at 4:00 pm everyday.This is where you tell us what goal you are working towards and what challenges you faced today and how we can help you with those.
 
 #### Pre-requisites for Daily review
 
-Before giving the daily review ensure that
+Before giving the daily review ensure that 
 
-1. The work that you have done today is an issue in gitlab in respective project.
-2. Issues should have correct Description
-3. Summary of the day should be commented inside the issue.
+1. The work that you have done on that day is an issue in gitlab in respective project.
+2. Issues should have correct meaningful Description. 
+3. Summary of the day should be documented the 20 hour learning way,  inside the issue.
 
-Daily review will not be heard utill all the pre-requsites are met.
+Your earn your karma points only if your daily review follows all steps .
 
 ------------------------------------------------
 
