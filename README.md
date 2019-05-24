@@ -26,7 +26,7 @@ We have documents explaining stuff
 
 Please follow this [guide](git_basics.md) to git
 
-Optional : To learn more about git, Check ou this [guide](https://rogerdudler.github.io/git-guide/)
+Optional : To learn more about git, Check out this [guide](https://rogerdudler.github.io/git-guide/)
 
 ## Step 2(b) : Learn how to use Gitlab
 We do all our work inside Gitlab.
@@ -45,7 +45,7 @@ Name it 20hr-learning-summary.md
 
 ### Practical -Your real test here
 
-1. Clone this repository - http://gitlab.iotiot.in:9999/yh42/iotiot.in-on-boarding.git
+1. Clone this repository - https://gitlab.iotiot.in/newbies/iotiot.in-on-boarding.git
 2. Create a branch with branch name = "Your Full Name"
 3. Run check.sh script
 4. Add the Summary of the Video to the repository (20hr-learning-summary.md)
@@ -70,7 +70,7 @@ Before giving the daily review ensure that
 
 1. The work that you have done on that day is an issue in gitlab in respective project.
 2. Issues should have correct meaningful Description. 
-3. Summary of the day should be documented the 20 hour learning way,  inside the issue.
+3. Summary of the day should be documented the 20 hour learning way, inside the issue.
 
 Your earn your karma points only if your daily review follows all steps .
 
