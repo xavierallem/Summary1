@@ -3,9 +3,14 @@
 Want to join IoTIoT.in ?
 
 How to read this document ? 
+
+
 You must have atleast 2-3 hours of free time, stable internet, atleast 2gb usb disk ,to complete all steps given here.
+
 You will have to read carefully , understand and do things .
+
 This basic document itself helps you move from student to professional level .
+
 So please approach this with professionalism. Dont try to somehow complete tasks here like any other college assignment.
 
 
