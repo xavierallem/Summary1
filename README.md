@@ -18,7 +18,9 @@ The pre-requsities
 
 ## Step 1 : Install Ubuntu 16.04 on your Laptop 
 Ubuntu 18.04 or any other version of Linux is strictly not supported by us
-**Why **?We have solved all possible issues on 16.04 and there are many issues in 18.04 
+
+**Why **?
+We have solved all possible issues on 16.04 and there are many issues in 18.04 
 which we dont want to get busy solving since our main goal is our curriculum and not solving Ubuntu or other linux issues.
 
 We have documents explaining stuff
