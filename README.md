@@ -57,7 +57,10 @@ You will only be able to perform point 6 if you get approved by the Admin.
 
 1. Clone this repository - https://gitlab.iotiot.in/newbies/iotiot.in-on-boarding.git
 2. Create a branch with branch name = "Your Full Name"
-3. Run check.sh script
+3. Run check.sh script using command given below in the termina
+```shell
+./check.sh
+```
 4. Add the Summary of the Video to the repository (20hr-learning-summary.md)
 5. Commit all your changes (include all  files in your directory)
 6. Push the changes to the remote repository
