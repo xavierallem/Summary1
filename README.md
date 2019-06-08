@@ -90,7 +90,7 @@ Before giving the daily review ensure that
 
 Your earn your karma points only if your daily review follows all steps .
 
-#### How to take any task after on-boarding
+## Step 5 : How to take any task after on-boarding
 
 Please check this link to proceed : https://gitlab.iotiot.in/newbies/iotiot.in-on-boarding/issues/12
 
