@@ -75,10 +75,11 @@ you must be told the goal you are working towards , your task cannot be a just a
 2. You are accountable for your task/issue.
 3. You should be empathetic in your documentation (make it super easy for 
 others to understand with diagrams flow charts and minimal bookish language)
+
 4.Please donot work in college assignment mode.
 
 
-We have a daily review at 4:00 pm everyday.This is where you tell us what goal you are working towards and what challenges you faced today and how we can help you with those.
+We have a daily review at 4:00 pm .This is where you tell us what goal you are working towards and what challenges you faced today and how we can help you with those.
 
 #### Pre-requisites for Daily review
 
