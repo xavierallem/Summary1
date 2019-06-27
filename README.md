@@ -27,7 +27,11 @@ We have documents explaining stuff
 
 1. [How to Install Ubuntu(dual boot)](/extras/Dual_Boot_PC.pdf)
 2.  How to Install Ubuntu(dual boot a mac) https://larryjordan.com/articles/create-a-dual-boot-mac-os-x-system/
-After partitioning - Insert Ubuntu installer usb disk - Reboot the system holding the option key till it boots back with boot options - boot from the usb and install Ubuntu on new partition.
+
+After partitioning - 
+Insert Ubuntu installer usb disk - 
+Reboot the system holding the option key till it boots back with boot options - 
+boot from the usb and install Ubuntu on new partition.
 
 ## Step 2(a) : Learn how to use git 
 
