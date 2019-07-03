@@ -25,8 +25,8 @@ which we dont want to get busy solving since our main goal is our curriculum and
 
 We have documents explaining stuff
 
-1. [How to Install Ubuntu(dual boot,Windows pc)](/extras/Dual_Boot_PC.pdf)
-2.  How to Install Ubuntu(dual boot a mac) https://larryjordan.com/articles/create-a-dual-boot-mac-os-x-system/
+1. [How to Install Ubuntu](/extras/Dual_Boot_PC.pdf)(dual boot,Windows PC)
+2. [How to Install Ubuntu](https://larryjordan.com/articles/create-a-dual-boot-mac-os-x-system/)(dual boot a MAC) 
 
 After partitioning - 
 Insert Ubuntu installer usb disk - 
