@@ -64,6 +64,7 @@ That includes Learning! Watch the video on how to learn faster.
     1. Gitlab Interface (gitlab-interface.md)
     1. Git Basics (git-basics.md)
     1. 20 hr Learning Video (20-hr-learning.md)
+    
 **Note** : Summaries should be concise, the lesser the better but must cover all key points. Summaries should be written in Markdown. 
 1. Commit all your changes (include all  files in your directory)
 1. Push the changes to the remote repository
