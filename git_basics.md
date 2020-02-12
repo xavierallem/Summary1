@@ -103,19 +103,24 @@ $ git checkout master
 $ git checkout -b <your-branch-name>
 ```
 1. You modify files in your working tree.
-2. You selectively stage just those changes you want to be part of your next commit,
+1. You selectively stage just those changes you want to be part of your next commit,
 which adds only those changes to the staging area.
 ```sh
 $ git add .         # To add untracked files ( . adds all files) 
 ```
-
-3. You do a commit, which takes the files as they are in the staging area and stores that
+1. You do a commit, which takes the files as they are in the staging area and stores that
 snapshot permanently to your Local Git Repository.
 ```sh
 $ git commit -sv   # Description about the commit
 ```
-4. You do a push, which takes the files as they are in the Local Git Repository and stores
+1. You do a push, which takes the files as they are in the Local Git Repository and stores
 that snapshot permanently to your Remote Git Repository.
 ```sh
 $ git push origin <branch-name>      # push changes into repository
 ```
+
+# Credits
+This guide is derived from the awesome works of original creators.
+Thanks to all these creators below who made it easy for us to learn the subject.
+1. Credits to B.J. Keeton, for his work on git for beginners. [original source](https://www.elegantthemes.com/blog/resources/git-and-github-a-beginners-guide-for-complete-newbies)
+2. Credits to git-scm page for the git documentation. [original source](https://git-scm.com/docs/)
