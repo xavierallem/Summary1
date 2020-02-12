@@ -71,7 +71,5 @@ That includes Learning! Watch the video on how to learn faster.
 
 ------------------------------------------------
 
-# Contribute
-Do you have any suggestions to improve this project ? 
-
-Then Please open up an Issue in the project on Gitlab and let us discuss your Ideas/suggestions in detail. Please follow our [contributing guidelines](CONTRIBUTING.md).
+# Have Questions about the Process ?
+* Checkout our [FAQ section](FAQ.md)
