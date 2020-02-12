@@ -11,11 +11,11 @@ You will have to read carefully, understand and do things.
 1. Basic Git Work-flow
 1. How to document like experienced developers
 
-> **Innovation is seeing what everybody has seen and thinking what nobody has thought**.
+> **Innovation is seeing what everybody has seen and thinking what nobody has thought**.  
 Famous quote by Dr. Albert Szent-Györgyi, discovered Vitamin C.
 
 We believe this too. Hence we try to **Innovate** in all the things that we do and 
-our *biggest innovation* are our **Processes**.
+our *biggest innovations* are our **Processes**.
 
 ## Step 1 : Learn About the culture of our company
 
