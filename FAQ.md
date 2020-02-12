@@ -6,8 +6,5 @@
 ### Q2 : I am having X problem while installing Ubuntu ... what should I do ?
 **Ans** : Google your issues/problems once you will definitely find the solution. Try your best possible shot and still if do not find the solution, Then and only then post it in [Issue](https://gitlab.iotiot.in/newbies/orientation/issues/1)
 
-### Q3 : 
-
-
-### Q4 : I have a suggestion/feedback regarding the project, where should I put it ?
+### Q3 : I have a suggestion/feedback regarding the project, where should I put it ?
 **Ans** : You can put all your suggestion in the [Issue](https://gitlab.iotiot.in/newbies/orientation/issues/2)
