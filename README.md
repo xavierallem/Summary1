@@ -34,10 +34,6 @@ Learn about [Issues](https://docs.gitlab.com/ee/user/project/issues/) here.
 Git is the way we manage code and there is no software development without git.
 Please follow this [guide](git_basics.md)
 
-Note: This Guide will ony brief you about the bare minimum.
-
-Optional : To learn more about git, Check out this [guide](https://learngitbranching.js.org/)
-
 ## Step 2 (c) : Learn how to document like experienced developers
 Experienced developers write documentation in Markdown. 
 
@@ -56,19 +52,19 @@ others to understand with diagrams flow charts and minimal bookish language)
 4. Please don't work in college assignment mode.
 
 ## Step 4 : How to learn Fast - 20 hr Learning
-We are a startup and we do all our thing in most innovative ways possible. 
+We are a startup and we do all our thing in most innovative ways possible.   
 That includes Learning! Watch the video on how to learn faster.
 
 [20hr Learning Video](https://www.youtube.com/watch?v=5MgBikgcWnY)
 
-Please write a Summary of the video. Write concise, the lesser the better but must cover all key points.
-
-Name it 20hr-learning-summary.md
-
-### Practical - Your real test here
+## Step 5 : Practical - Your real test here
 1. Clone this repository - https://gitlab.iotiot.in/newbies/iotiot.in-on-boarding.git
 1. Create a branch with branch name = "Your Full Name"
-1. Add the Summary of the Video to the repository (20hr-learning-summary.md)
+1. Add the Summaries on the topics  
+    1. Gitlab Interface (gitlab-interface.md)
+    1. Git Basics (git-basics.md)
+    1. 20 hr Learning Video (20-hr-learning.md)
+**Note** : Summaries should be concise, the lesser the better but must cover all key points. Summaries should be written in Markdown. 
 1. Commit all your changes (include all  files in your directory)
 1. Push the changes to the remote repository
 
