@@ -1,45 +1,23 @@
 # Orientation/On Boarding
 
-Want to join us?
-
 #### What do you need? 
 You must have at-least 1-2 hours of free time, stable Internet, to complete all steps given here.
 You will have to read carefully, understand and do things.
 
 #### What will you learn?
+1. Culture and the Mission of IoTIoT.in and Shunya OS
+1. How to learn Fast
 1. GitLab Interface
 1. Basic Git Work-flow
 1. How to document like experienced developers
-1. Culture and the Mission of IoTIoT.in and Shunya OS
-1. How to learn Fast
 
+> **Innovation is seeing what everybody has seen and thinking what nobody has thought**.
+Famous quote by Dr. Albert Szent-Györgyi, discovered Vitamin C.
 
-***Note*** : This basic document itself helps you move from student to professional level.
-So please approach this with professionalism. Don't try to somehow complete tasks here like any other college assignment.
+We believe this too. Hence we try to **Innovate** in all the things that we do and 
+our *biggest innovation* are our **Processes**.
 
-## Step 1 : Get tools for the program
-We use Ubuntu 16.04 as our default OS. Please install it on to your system, so
-that you can work with us.
-
-Learn how to install Ubuntu 16.04 in this [guide](install_ubuntu.md)  
-
-## Step 2 (a) : Learn how to use GitLab
-
-We do all our work inside GitLab. And knowing the interface will help you get around.
-
-Learn about [Issues](https://docs.gitlab.com/ee/user/project/issues/) here.
-(put up a good overview of gitlab)
-
-## Step 2 (b) : Learn how to use git 
-Git is the way we manage code and there is no software development without git.
-Please follow this [guide](git_basics.md)
-
-## Step 2 (c) : Learn how to document like experienced developers
-Experienced developers write documentation in Markdown. 
-
-Learn Markdown by following this interactive [Tutorial](https://www.markdowntutorial.com/lesson/1/) 
-## Step 3 : Learn About the culture of our company
-Culture is more important for us than code.
+## Step 1 : Learn About the culture of our company
 
 ****Know our mission :**** [IoTIoT.in Vision & Mission](http://bit.ly/iotiotvision)
 
@@ -49,25 +27,46 @@ task you are asked to complete.
 2. You are accountable for your task/issue.
 3. You should be empathetic in your documentation (make it super easy for 
 others to understand with diagrams flow charts and minimal bookish language)
-4. Please don't work in college assignment mode.
 
-## Step 4 : How to learn Fast - 20 hr Learning
-We are a startup and we do all our thing in most innovative ways possible.   
-That includes Learning! Watch the video on how to learn faster.
+## Step 2 : How to learn Fast - 20 hr Learning
+We are a startup and we have an innovative approach to Learning.  
+Watch the video on [20 hr Learning](https://www.youtube.com/watch?v=5MgBikgcWnY).  
+We follow this approach throughout our learning process.  
 
-[20hr Learning Video](https://www.youtube.com/watch?v=5MgBikgcWnY)
+## Step 3 : Get tools for the program
+We use Ubuntu 16.04 as our default OS. Please install it on to your system, so
+that you can work with us.  
+
+Learn how to install Ubuntu 16.04 in this [guide](install_ubuntu.md)  
+
+## Step 4 (a) : Learn how to use GitLab
+
+We do all our work inside GitLab. And knowing the interface will help you get around.  
+
+Learn about [Issues](https://docs.gitlab.com/ee/user/project/issues/) here.
+(put up a good overview of gitlab)
+
+## Step 4 (b) : Learn how to use git 
+Git is the way we manage code and there is no software development without git.  
+Please follow this [guide](git_basics.md)
+
+## Step 4 (c) : Learn how to document like experienced developers
+Experienced developers write documentation in Markdown.  
+
+Learn Markdown by following this interactive [Tutorial](https://www.markdowntutorial.com/lesson/1/)
 
 ## Step 5 : Practical - Your real test here
 1. Clone this repository - https://gitlab.iotiot.in/newbies/orientation.git
-1. Create a branch with branch name = "Your Full Name"
-1. Add the Summaries on the topics  
+2. Create a branch with branch name = "Your Full Name"
+3. Add the Summaries on the topics  
     1. Gitlab Interface (gitlab-interface.md)
     1. Git Basics (git-basics.md)
     1. 20 hr Learning Video (20-hr-learning.md)
 
 **Note** : Summaries should be concise, the lesser the better but must cover all key points. Summaries should be written in Markdown. 
-1. Commit all your changes (include all  files in your directory)
-1. Push the changes to the remote repository
+4. Commit all your changes (include all  files in your directory)
+5. Push the changes to the remote repository
+
 
 ------------------------------------------------
 
