@@ -63,7 +63,8 @@ Learn Markdown by following this interactive [Tutorial](https://www.markdowntuto
     1. Git Basics (git-basics.md)
     1. 20 hr Learning Video (20-hr-learning.md)
 
-**Note** : Summaries should be concise, the lesser the better but must cover all key points. Summaries should be written in Markdown. 
+**Note** : Summaries should be concise, the lesser the better but must cover all key points. Summaries should be written in Markdown.
+
 4. Commit all your changes (include all  files in your directory)
 5. Push the changes to the remote repository
 
