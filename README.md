@@ -58,7 +58,7 @@ That includes Learning! Watch the video on how to learn faster.
 [20hr Learning Video](https://www.youtube.com/watch?v=5MgBikgcWnY)
 
 ## Step 5 : Practical - Your real test here
-1. Clone this repository - https://gitlab.iotiot.in/newbies/iotiot.in-on-boarding.git
+1. Clone this repository - https://gitlab.iotiot.in/newbies/orientation.git
 1. Create a branch with branch name = "Your Full Name"
 1. Add the Summaries on the topics  
     1. Gitlab Interface (gitlab-interface.md)
