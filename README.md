@@ -6,7 +6,7 @@ You will have to read carefully, understand and do things.
 
 #### What will you learn?
 1. Culture and the Mission of IoTIoT.in and Shunya OS
-1. How to learn Fast
+1. New approach towards learning - 20hrs learning method 
 1. GitLab Interface
 1. Basic Git Work-flow
 1. How to document like experienced developers
@@ -28,7 +28,7 @@ task you are asked to complete.
 3. You should be empathetic in your documentation (make it super easy for 
 others to understand with diagrams flow charts and minimal bookish language)
 
-## Step 2 : How to learn Fast - 20 hr Learning
+## Step 2: New approach towards learning - 20hrs learning method 
 We are a startup and we have an innovative approach to Learning.  
 Watch the video on [20 hr Learning](https://www.youtube.com/watch?v=5MgBikgcWnY).  
 We follow this approach throughout our learning process.  
