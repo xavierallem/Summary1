@@ -1,3 +1,0 @@
-## [0.0.1] - 2019-May-22
-### Added
-- README, CHANGELOG, CONTRIBUTING, TODO files 

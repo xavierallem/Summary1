@@ -56,17 +56,18 @@ Experienced developers write documentation in Markdown.
 Learn Markdown by following this interactive [Tutorial](https://www.markdowntutorial.com/lesson/1/)
 
 ## Step 5 : Practical - Your real test here
-1. Clone this repository - https://gitlab.iotiot.in/newbies/orientation.git
-2. Create a branch with branch name = "Your Full Name"
-3. Add the Summaries on the topics  
-    1. Gitlab Interface (gitlab-interface.md)
+1. Register & request Access to the project, [guide here](Register.md) 
+2. Clone this repository - https://gitlab.iotiot.in/newbies/orientation.git
+3. Create a branch with branch name = "Your Full Name"
+4. Add the Summaries on the topics  
+   1. Gitlab Interface (gitlab-interface.md)
     1. Git Basics (git-basics.md)
     1. 20 hr Learning Video (20-hr-learning.md)
 
 **Note** : Summaries should be concise, the lesser the better but must cover all key points. Summaries should be written in Markdown.
 
-4. Commit all your changes (include all  files in your directory)
-5. Push the changes to the remote repository
+5. Commit all your changes (include all  files in your directory)
+6. Push the changes to the remote repository
 
 
 ------------------------------------------------
