@@ -55,7 +55,7 @@ Experienced developers write documentation in Markdown.
 
 Learn Markdown by following this interactive [Tutorial](https://www.markdowntutorial.com/lesson/1/)
 
-## Step 5 (d) : [Learn Docker basics](docker_basics.md)
+## Step 4 (d) : [Learn Docker basics](docker_basics.md)
 
 ## Step 5 : Practical - Your real test here
 1. Register & request Access to the project, [guide here](Register.md) 
