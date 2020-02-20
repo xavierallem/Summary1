@@ -33,7 +33,7 @@ We are a startup and we have an innovative approach to Learning.
 Watch the video on [20 hr Learning](https://www.youtube.com/watch?v=5MgBikgcWnY).  
 We follow this approach throughout our learning process.  
 
-## Step 3 : Get tools for the program
+## Step 3 : Using Same OS to avoid OS issues
 We use Ubuntu 16.04 as our default OS. Please install it on to your system, so
 that you can work with us.  
 
