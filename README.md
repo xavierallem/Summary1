@@ -77,6 +77,7 @@ Coding style is how your code looks, plain and simple. And by “your,” I actu
     1. Docker Basics (docker_basics.md)
 
 **Note** : Summaries should be concise, the lesser the better but must cover all key points. Summaries should be written in Markdown.
+
 6. Practical on coding style (coding_style.md). Choose one from C or CPP or Python programs(Based on following criteria) given in programs directory.
    1. IoT-C : Choose C Program
    1. IoT-CPP and AI-CPP : Choose CPP Program
