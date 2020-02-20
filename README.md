@@ -8,7 +8,7 @@ You will have to read carefully, understand and do things.
 1. Culture and the Mission of IoTIoT.in and Shunya OS
 1. Faster approach towards learning - 20hrs learning method 
 1. Basic Git Work-flow
-1. Project management -GitLab Interface
+1. Project management - GitLab Interface
 1. Document like a professional coder
 1. Docker Basics
 1. Coding Style
@@ -30,7 +30,7 @@ task you are asked to complete.
 others to understand with diagrams flow charts and minimal bookish language)
 4. Be **open minded** to learn new ways and **persistent** to complete things you take up .
 
-## Step 2: New approach towards learning - 20hrs learning method 
+## Step 2: Faster approach towards learning - 20hrs learning method 
 We are a startup and we have an innovative approach to Learning.  
 Watch the video on [20 hr Learning](https://www.youtube.com/watch?v=5MgBikgcWnY).  
 We follow this approach throughout our learning process.  
@@ -49,8 +49,9 @@ Please follow this [guide](git_basics.md)
 
 We do all our work inside GitLab. And knowing the interface will help you get around.  
 
-Learn about [Issues](https://docs.gitlab.com/ee/user/project/issues/) here.
 
+* Learn about [Issues](https://docs.gitlab.com/ee/user/project/issues/) here.
+* Learn about [Repository](https://docs.gitlab.com/ee/user/project/repository/) here
 
 
 ## Step 4 (c) : Learn how to document like experienced developers
@@ -62,14 +63,14 @@ Learn Markdown by following this interactive [Tutorial](https://www.markdowntuto
 Now you might be thinking :thinking: about why we need to learn docker. The reason is it becomes hard to manage dependencies as we build large projects and if we want to deploy them in various environments. So we will be using docker to deploy our product. For this you don't need to master docker but need to have basic skills. Learn [Docker Basics here](docker_basics.md).
 
 ## Step 4 (e) : Coding Style
-Coding style is how your code looks, plain and simple. And by “your,” I actually mean you, the person who is reading this. Working in the prefessional environment, it should become a practice to follow certain style in coding and be consistent with it, which helps us to enhance the readability of the code and hence with less bugs. We will be following these(mentioned in above link) standards from now. Read [Coding Style document](coding_style.md) to get to know the style.
+Coding style is how your code looks, plain and simple. And by “your,” I actually mean you, the person who is reading this. Working in the professional environment, it should become a practice to follow certain style in coding and be consistent with it, which helps us to enhance the readability of the code and hence with less bugs. We will be following these(mentioned in above link) standards from now. Read [Coding Style document](coding_style.md) to get to know the style.
 
 ## Step 5 : Practical - Your real test here
 1. Go to this project : https://gitlab.iotiot.in/newbies/orientation
 2. Click on fork button which is at top right of the page, next to clone button, choose your this step will add orientation repository under your username.
 3. Clone your repository. Repository location : `https://gitlab.iotiot.in/<your_user_name>/orientation`
 4. Add the Summaries on the topics
-   1. Gitlab Interface (gitlab-interface.md)
+    1. Gitlab Interface (gitlab-interface.md)
     1. Git Basics (git-basics.md)
     1. 20 hr Learning Video (20-hr-learning.md)
     1. Docker Basics (docker_basics.md)
