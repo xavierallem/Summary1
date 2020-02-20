@@ -69,11 +69,11 @@ Coding style is how your code looks, plain and simple. And by “your,” I actu
 1. Go to this project : https://gitlab.iotiot.in/newbies/orientation
 
 2. Click on fork button which is at top right of the page, next to clone button, choose your this step will add orientation repository under your username.
-[fork1](extras/066.jpg)
-[fork2](extras/067.jpg)
+![fork1](extras/066.jpg)
+![fork2](extras/067.jpg)
 
 3. Clone this repository : `https://gitlab.iotiot.in/<your_user_name>/orientation`
-[clone](extras/068.jpg)
+![clone](extras/068.jpg)
 
 4. Add the Summaries on the topics
     1. Gitlab Interface (Name your summary as : gitlab-interface.md)
