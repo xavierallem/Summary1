@@ -216,10 +216,10 @@ That’s it. You should normally see “Docker is magic!” displayed in your te
 
 1. Create Dockerhub account
 2. Create Repository
-![createrepo](uploads/4f2ae2411ed1d909a3e7483ec8a9af6c/createrepo.png)
+![createrepo](extras/createrepo.png)
 
 Click on Create Repository button, put the name and enter.
-![repo2](uploads/c18082dd04bbfd8b5eb66a4bbfcdcc14/repo2.png)
+![repo2](extras/repo2.png)
 
 3. Now we will tag the image and push it to dockerhub repository which we just created.
 ```
