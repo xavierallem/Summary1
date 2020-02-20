@@ -14,7 +14,7 @@ You will have to read carefully, understand and do things.
 > **Innovation is seeing what everybody has seen and thinking what nobody has thought**.  
 Famous quote by Dr. Albert Szent-Györgyi, discovered Vitamin C.
 
-Our *biggest **innovations** are our **Processes** .We have arranged common course material in a structured way learnt by training over 300 students and optimised to anchor core concepts and master the subject by doing  practical assignments.
+Our Key **Innovations** are our **Processes** .We have arranged common course material in a structured way learnt by training over 300 students and optimised to anchor core concepts and master the subject by doing  practical assignments.
 
 ## Step 1 : Learn About the culture of our company
 
