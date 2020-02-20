@@ -61,7 +61,7 @@ Learn Markdown by following this interactive [Tutorial](https://www.markdowntuto
 
 ## Step 4 (d) : [Learn Docker basics](docker_basics.md)
 
-## Step 4 (e) : [Coding Standards](coding_style.md)
+## Step 4 (e) : [Coding Style](coding_style.md)
 
 ## Step 5 : Practical - Your real test here
 1. Register & request Access to the project, [guide here](Register.md) 
