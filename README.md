@@ -68,7 +68,7 @@ Coding style is how your code looks, plain and simple. And by “your,” I actu
 ## Step 5 : Practical - Your real test here
 1. Go to this project : https://gitlab.iotiot.in/newbies/orientation
 2. Click on fork button which is at right top of page left to clone button, this step will add orientation repository under your username.
-3. Clone your repository. Repository location : https://gitlab.iotiot.in/<your_user_name>/orientation
+3. Clone your repository. Repository location : `https://gitlab.iotiot.in/<your_user_name>/orientation`
 4. Create a branch with branch name = "Your Full Name"
 5. Add the Summaries on the topics  
    1. Gitlab Interface (gitlab-interface.md)
