@@ -66,22 +66,23 @@ Now you might be thinking :thinking: about why we need to learn docker. The reas
 Coding style is how your code looks, plain and simple. And by “your,” I actually mean you, the person who is reading this. Working in the prefessional environment, it should become a practice to follow certain style in coding and be consistent with it, which helps us to enhance the readability of the code and hence with less bugs. We will be following these(mentioned in above link) standards from now. Read [Coding Style document](coding_style.md) to get to know the style.
 
 ## Step 5 : Practical - Your real test here
-1. Register & request Access to the project, [guide here](Register.md) 
-1. Clone this repository - https://gitlab.iotiot.in/newbies/orientation.git
-2. Create a branch with branch name = "Your Full Name"
-3. Add the Summaries on the topics  
+1. Go to this project : https://gitlab.iotiot.in/newbies/orientation
+2. Click on fork button which is at right top of page left to clone button, this step will add orientation repository under your username.
+3. Clone your repository. Repository location : https://gitlab.iotiot.in/<your_user_name>/orientation
+4. Create a branch with branch name = "Your Full Name"
+5. Add the Summaries on the topics  
    1. Gitlab Interface (gitlab-interface.md)
     1. Git Basics (git-basics.md)
     1. 20 hr Learning Video (20-hr-learning.md)
     1. Docker Basics (docker_basics.md)
 
 **Note** : Summaries should be concise, the lesser the better but must cover all key points. Summaries should be written in Markdown.
-4. Practical on coding style (coding_style.md). Choose one from C or CPP or Python programs(Based on following criteria) given in programs directory.
+6. Practical on coding style (coding_style.md). Choose one from C or CPP or Python programs(Based on following criteria) given in programs directory.
    1. IoT-C : Choose C Program
    1. IoT-CPP and AI-CPP : Choose CPP Program
    1. AI-Python : Choose Python Program
    Rewrite the program which follows all the coding styles given above.
-5. Commit all your changes (include all files in your directory)
+7. Commit all your changes (include all files in your directory)
 6. Push the changes to the remote repository
 
 
