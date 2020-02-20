@@ -3,7 +3,7 @@ We recommend you to use Ubuntu 16.04 since it is easy for new developers.
 
 You can choose to install Ubuntu 16.04 in a VM or you can Dual Boot it with Windows. 
 
-### Install in a VM
+### Install in a VM (Recommended)
 1. [How to Install Ubuntu in VM](https://medium.com/@tushar0618/install-ubuntu-16-04-lts-on-virtual-box-desktop-version-30dc6f1958d0)
 
 ### Dual-boot
