@@ -60,8 +60,10 @@ Experienced developers write documentation in Markdown.
 Learn Markdown by following this interactive [Tutorial](https://www.markdowntutorial.com/lesson/1/)
 
 ## Step 4 (d) : [Learn Docker basics](docker_basics.md)
+Now you might be thinking :thinking: about why we need to learn docker. The reason is it becomes hard to manage dependencies as we build large projects and if we want to deploy them in various environments. So we will be using docker to deploy our product. For this you don't need to master docker but need to have basic skills. Following summary will give you a basic idea about a docker.
 
 ## Step 4 (e) : [Coding Style](coding_style.md)
+Coding style is how your code looks, plain and simple. And by “your,” I actually mean you, the person who is reading this. Working in the prefessional environment, it should become a practice to follow certain style in coding and be consistent with it, which helps us to enhance the readability of the code and hence with less bugs. We will be following these(mentioned in above link) standards from now, so lets dig into it.
 
 ## Step 5 : Practical - Your real test here
 1. Register & request Access to the project, [guide here](Register.md) 

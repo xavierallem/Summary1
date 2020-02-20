@@ -1,5 +1,3 @@
-Now you might be thinking :thinking: about why we need to learn docker. The reason is it becomes hard to manage dependencies as we build large projects and if we want to deploy them in various environments. So we will be using docker to deploy our product. For this you don't need to master docker but need to have basic skills. Following summary will give you a basic idea about a docker.
-
 # Index
 1. Docker Terminologies
 2. Docker Components
