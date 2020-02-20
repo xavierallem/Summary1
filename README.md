@@ -7,8 +7,8 @@ You will have to read carefully, understand and do things.
 #### Index of what you will you learn?
 1. Culture and the Mission of IoTIoT.in and Shunya OS
 1. Faster approach towards learning - 20hrs learning method 
-1. Project management -GitLab Interface
 1. Basic Git Work-flow
+1. Project management -GitLab Interface
 1. Document like a professional coder
 
 > **Innovation is seeing what everybody has seen and thinking what nobody has thought**.  
@@ -37,18 +37,20 @@ We follow this approach throughout our learning process.
 We use Ubuntu 16.04 as our default OS. Please install it on to your system, so
 that you can work with us.  
 
-Learn how to install Ubuntu 16.04 in this [guide](install_ubuntu.md)  
+Learn how to install Ubuntu 16.04 in this [guide](install_ubuntu.md) 
 
-## Step 4 (a) : Learn how to use GitLab
+## Step 4 (a) : Learn how to use git 
+Git is the way we manage code and there is no software development without git.  
+Please follow this [guide](git_basics.md)
+
+## Step 4 (b) : Learn how to use GitLab
 
 We do all our work inside GitLab. And knowing the interface will help you get around.  
 
 Learn about [Issues](https://docs.gitlab.com/ee/user/project/issues/) here.
 (put up a good overview of gitlab)
 
-## Step 4 (b) : Learn how to use git 
-Git is the way we manage code and there is no software development without git.  
-Please follow this [guide](git_basics.md)
+
 
 ## Step 4 (c) : Learn how to document like experienced developers
 Experienced developers write documentation in Markdown.  
