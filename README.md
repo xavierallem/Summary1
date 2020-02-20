@@ -10,6 +10,8 @@ You will have to read carefully, understand and do things.
 1. Basic Git Work-flow
 1. Project management -GitLab Interface
 1. Document like a professional coder
+1. Docker Basics
+1. Coding Style
 
 > **Innovation is seeing what everybody has seen and thinking what nobody has thought**.  
 Famous quote by Dr. Albert Szent-Györgyi, discovered Vitamin C.
@@ -57,7 +59,9 @@ Experienced developers write documentation in Markdown.
 
 Learn Markdown by following this interactive [Tutorial](https://www.markdowntutorial.com/lesson/1/)
 
-## Step 4 (d) : [Learn Docker basics](docker_basics.md)(only for AI)
+## Step 4 (d) : [Learn Docker basics](docker_basics.md)
+
+## Step 4 (e) : [Coding Standards](coding_style.md)
 
 ## Step 5 : Practical - Your real test here
 1. Register & request Access to the project, [guide here](Register.md) 
