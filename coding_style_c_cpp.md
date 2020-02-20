@@ -15,7 +15,7 @@ amount of work experience to show for it.
 3. [General Rules](#general)
 4. [Documentation Rules](#documentation)
 5. [Classes](#classes)(Only for CPP)
-6. [Other CPP Features](#cppfeatures)(Only for CPP)
+6. [Other CPP Features](#other-cpp-features)(Only for CPP)
 
 ### Naming Convention
 | Rule No. | Description                                                                          | Examples                     |
@@ -100,7 +100,7 @@ amount of work experience to show for it.
 | 5.7 | Access Control | Make classes' data members private, unless they are constants. | [here](https://google.github.io/styleguide/cppguide.html#Access_Control) |
 | 5.8 | Declaration Order | Group similar declarations together, placing public parts earlier. | [here](https://google.github.io/styleguide/cppguide.html#Declaration_Order) |
 
-### Other C++ Features
+### Other CPP Features
 | RuleNo. | Topic | Description | Reference |
 | ------ | ------ | ------ | ------- |
 | 6.1 | Rvalue References | Use rvalue references to: 1.Define move constructors and move assignment operators. 2. Define overload sets with const& and && variants. | [here](https://google.github.io/styleguide/cppguide.html#Rvalue_references) |

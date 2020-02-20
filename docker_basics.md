@@ -1,9 +1,9 @@
 # Index
-1. Docker Terminologies
-2. Docker Components
-3. Docker Installation (ubuntu16.04)
-4. Docker Basic Command
-5. Creating Docker application
+1. [Docker Terminologies](#docker-terminologies)
+2. [Docker Components](#docker-components)
+3. [Docker Installation (ubuntu16.04)](#docker-installation)
+4. [Docker Basic Command](#docker-basic-command)
+5. [Creating Docker application](#creating-an-application)
 
 # Docker Terminologies
 ## 1. Docker
@@ -46,7 +46,7 @@
 ## Docker Hub
 Docker Hub is the official online repository where you could find all the Docker Images that are available for us to use.
 
-# Docker Installation (ubuntu16.04)
+# Docker Installation
 
 1. Uninstall the older version of docker if is already installed
 ```
@@ -78,7 +78,7 @@ $ sudo docker run hello-world
 [Referred link](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
 
 
-# 1. Docker basic command
+# Docker basic command
 [Referred link](https://medium.com/free-code-camp/docker-simplified-96639a35ff36#06d9)
 ## docker create
   * This command allows us to create a new container.
