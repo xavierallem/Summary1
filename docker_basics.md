@@ -211,6 +211,44 @@ $ docker run python-test
    * You need to put the name of your image after `docker run`.
 That’s it. You should normally see “Docker is magic!” displayed in your terminal.
 
+## Push your image on Dockerhub
+[Referred link](https://medium.com/@deepakshakya/beginners-guide-to-use-docker-build-run-push-and-pull-4a132c094d75)
 
+1. Create Dockerhub account
+2. Create Repository
+![createrepo](uploads/4f2ae2411ed1d909a3e7483ec8a9af6c/createrepo.png)
+
+Click on Create Repository button, put the name and enter.
+![repo2](uploads/c18082dd04bbfd8b5eb66a4bbfcdcc14/repo2.png)
+
+3. Now we will tag the image and push it to dockerhub repository which we just created.
+```
+# Run this commend to list docker images
+$ docker images
+```
+which will give you this list
+```
+REPOSITORY                 TAG                 IMAGE ID            CREATED             SIZE
+snehabhapkar/python-test   latest              c7857f97ebbd        2 hours ago         933MB
+```
+Image ID is used to tag the image. So lets tag syntax is `docker tag <image-id of docker-whale> <your dockerhub username>/docker-whale:latest`
+```
+$ docker tag c7857f97ebbd snehabhapkar/python-test:latest
+# Push image to the repository
+$ docker push snehabhapkar/python-test
+```
+
+## Pull and run the image
+
+1. Let’s remove all versions of python-test image on our local system. Use Image ID to do that.
+```
+$ docker rmi -f c7857f97ebbd
+```
+
+2. Lets run the image, if it doesn't find it on local machine, it fetched it from dockerhub and run.
+```
+$ docker run snehabhapkar/python-test
+```
+This will give the desired output.
 
 # [Summarize here](https://gitlab.iotiot.in/newbies/orientation/issues/3)
