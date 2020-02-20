@@ -23,9 +23,10 @@ Our Key **Innovations** are our **Processes** .We have arranged common course ma
 1. We have a very flat culture. No hierarchy, if you are part of any team, 
 you must be told the goal you are working towards, your task cannot be a just a 
 task you are asked to complete.
-2. You are accountable for your task/issue.
+2. You take ownership for your task/issue.
 3. You should be empathetic in your documentation (make it super easy for 
 others to understand with diagrams flow charts and minimal bookish language)
+4. Be **open minded** to learn new ways and **persistent** to complete things you take up .
 
 ## Step 2: New approach towards learning - 20hrs learning method 
 We are a startup and we have an innovative approach to Learning.  
