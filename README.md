@@ -82,7 +82,9 @@ Coding style is how your code looks, plain and simple. And by “your,” I actu
    1. IoT-C : Choose C Program
    1. IoT-CPP and AI-CPP : Choose CPP Program
    1. AI-Python : Choose Python Program
+
    Rewrite the program which follows all the coding styles given above.
+
 7. Commit all your changes (include all files in your directory)
 6. Push the changes to the remote repository
 
