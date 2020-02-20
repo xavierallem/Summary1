@@ -213,4 +213,4 @@ That’s it. You should normally see “Docker is magic!” displayed in your te
 
 
 
-# [Summarize here](https://gitlab.iotiot.in/newbies/ai-skilling/module2---master-basic-skills---python-dnn-cnn-framework-docker/issues/5)
+# [Summarize here](https://gitlab.iotiot.in/newbies/orientation/issues/3)
