@@ -4,18 +4,17 @@
 You must have at-least 1-2 hours of free time, stable Internet, to complete all steps given here.
 You will have to read carefully, understand and do things.
 
-#### What will you learn?
+#### Index of what you will you learn?
 1. Culture and the Mission of IoTIoT.in and Shunya OS
-1. New approach towards learning - 20hrs learning method 
-1. GitLab Interface
+1. Faster approach towards learning - 20hrs learning method 
+1. Project management -GitLab Interface
 1. Basic Git Work-flow
-1. How to document like experienced developers
+1. Document like a professional coder
 
 > **Innovation is seeing what everybody has seen and thinking what nobody has thought**.  
 Famous quote by Dr. Albert Szent-Györgyi, discovered Vitamin C.
 
-We believe this too. Hence we try to **Innovate** in all the things that we do and 
-our *biggest innovations* are our **Processes**.
+Our *biggest **innovations** are our **Processes** .We have arranged common course material in a structured way learnt by training over 300 students and optimised to anchor core concepts and master the subject by doing  practical assignments.
 
 ## Step 1 : Learn About the culture of our company
 
