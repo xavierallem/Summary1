@@ -68,7 +68,7 @@ Coding style is how your code looks, plain and simple. And by “your,” I actu
 ## Step 5 : Practical - Your real test here
 1. Go to this project : https://gitlab.iotiot.in/newbies/orientation
 
-2. Click on fork button which is at top right of the page, next to clone button, choose your this step will add orientation repository under your username.
+2. Click on fork button which is at top right of the page, next to clone button, your this step will add orientation repository under your username.
 ![fork1](extras/066.jpg)
 ![fork2](extras/067.jpg)
 
