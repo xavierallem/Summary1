@@ -67,22 +67,28 @@ Coding style is how your code looks, plain and simple. And by “your,” I actu
 
 ## Step 5 : Practical - Your real test here
 1. Go to this project : https://gitlab.iotiot.in/newbies/orientation
+
 2. Click on fork button which is at top right of the page, next to clone button, choose your this step will add orientation repository under your username.
-3. Clone your repository. Repository location : `https://gitlab.iotiot.in/<your_user_name>/orientation`
+[fork1](extras/066.jpg)
+[fork2](extras/067.jpg)
+
+3. Clone this repository : `https://gitlab.iotiot.in/<your_user_name>/orientation`
+[clone](extras/068.jpg)
+
 4. Add the Summaries on the topics
-    1. Gitlab Interface (gitlab-interface.md)
-    1. Git Basics (git-basics.md)
-    1. 20 hr Learning Video (20-hr-learning.md)
-    1. Docker Basics (docker_basics.md)
+    1. Gitlab Interface (Name your summary as : gitlab-interface.md)
+    1. Git Basics (Name your summary as : git-basics.md)
+    1. 20 hr Learning Video (Name your summary as : 20-hr-learning.md)
+    1. Docker Basics (Name your summary as : docker_basics.md)
 
 **Note** : Summaries should be concise, the lesser the better but must cover all key points. Summaries should be written in Markdown.
 
-5. Practical on coding style (coding_style.md). Choose one from C or CPP or Python programs(Based on following criteria) given in programs directory.
-   1. IoT-C : Choose C Program
-   1. IoT-CPP and AI-CPP : Choose CPP Program
+5. Practical on coding style. Choose one from C or CPP or Python programs(Based on following criteria) given in programs directory.
+   1. IoT-C(Product Innovator/Premium Job Seeker) : Choose C Program
+   1. IoT-CPP(Camera) and AI-CPP : Choose CPP Program
    1. AI-Python : Choose Python Program
 
-   Rewrite the program which follows all the coding styles given above.
+   Format chosen program in respective coding styles.
 
 6. Commit all your changes (include all files in your directory)
 7. Push the changes to the remote repository
