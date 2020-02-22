@@ -249,4 +249,3 @@ $ docker run snehabhapkar/python-test
 ```
 This will give the desired output.
 
-# [Summarize here](https://gitlab.iotiot.in/newbies/orientation/issues/3)
