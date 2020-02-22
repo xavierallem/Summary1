@@ -81,7 +81,10 @@ Coding style is how your code looks, plain and simple. And by “your,” I actu
     1. 20 hr Learning Video (Name your summary as : 20-hr-learning.md)
     1. Docker Basics (Name your summary as : docker_basics.md)
 
-**Note** : Summaries should be concise, the lesser the better but must cover all key points. Summaries should be written in Markdown.
+## Note:
+   * Summaries should be written in Markdown.
+   * Summaries should be with more images and less text.
+   * Summaries should be concise, the lesser the better but must cover all key points.
 
 5. Practical on coding style. Choose one from C or CPP or Python programs(Based on following criteria) given in programs directory.
    1. IoT-C(Product Innovator/Premium Job Seeker) : Choose C Program
