@@ -79,7 +79,7 @@ Coding style is how your code looks, plain and simple. And by “your,” I actu
     1. Gitlab Interface (Name your summary as : gitlab-interface.md)
     1. Git Basics (Name your summary as : git-basics.md)
     1. 20 hr Learning Video (Name your summary as : 20-hr-learning.md)
-    1. Docker Basics (Name your summary as : docker_basics.md)
+    1. Docker Basics (Name your summary as : docker-basics-summary.md)
 
 ## Note:
    * Summaries should be written in `Markdown`.
