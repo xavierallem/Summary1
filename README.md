@@ -84,7 +84,7 @@ Coding style is how your code looks, plain and simple. And by “your,” I actu
 ## Note:
    * Summaries should be written in `Markdown`.
    * Summaries should be with `more images` and `less text`.
-   * Summaries should be in `sections` (not paragraphs).
+   * Summaries should be in `sections` (not big paragraphs).
    * Summaries should be `concise`, the lesser the better but `must cover all key points`.
 
 5. Practical on coding style. Choose one from C or CPP or Python programs(Based on following criteria) given in programs directory.
