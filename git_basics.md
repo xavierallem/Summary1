@@ -119,9 +119,6 @@ that snapshot permanently to your Remote Git Repository.
 $ git push origin <branch-name>      # push changes into repository
 ```
 
-## For Visual Learners 
-Check out this [guide](https://learngitbranching.js.org/)
-
 # Credits
 This guide is derived from the awesome works of original creators.
 Thanks to all these creators below who made it easy for us to learn the subject.
