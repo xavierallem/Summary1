@@ -1,10 +1,5 @@
 # C/CPP Coding Style
 
-This guide will help give a quick summary of the C/CPP Coding Style that is followed
-by IoTIoT. 
-
-Any Code written for IoTIoT should follow these guidelines strictly.
-
 ## How to Read the Document
 - First scan through the summary Tables quickly, this should give you quick overview 
 of the coding style.
@@ -14,11 +9,11 @@ the 1st scan.
 in the 1st and 2nd reads only.
 
 **Note**: If you are following all the above steps, then you should be able to
-finish reading the document within 30 mins.
+finish reading the document within 30 minutes.
 
 **Remember** : The goal of this is not to learn it by-heart but to scan it and 
 implement it in your code. You can come back and refer this again when you 
-are coding so that you dont make any mistakes.
+are coding, since coding styles are a habit that needs to be cultivated.
 
 ## Index 
 1. [Documentation Rules](#documentation)

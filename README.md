@@ -4,6 +4,10 @@
 You must have at-least 4-5 hours of free time, stable Internet, to complete all steps given here.
 You will have to read carefully, understand and do things.
 
+## How to read the document
+- Scan through the document once and understand all the steps.
+- Then start to complete the steps.
+
 #### Index of what you will you learn?
 1. Culture and the Mission of IoTIoT.in and Shunya OS
 1. Faster approach towards learning - 20hrs learning method 
@@ -16,7 +20,7 @@ You will have to read carefully, understand and do things.
 > **Innovation is seeing what everybody has seen and thinking what nobody has thought**.  
 Famous quote by Dr. Albert Szent-Györgyi, discovered Vitamin C.
 
-Our Key **Innovations** are our **Processes** .We have arranged common course material in a structured way learnt by training over 300 students and optimised to anchor core concepts and master the subject by doing  practical assignments.
+Our Key **Innovations** are our **Processes** .We have arranged common course material in a structured way learnt by training over 300 students and optimized to anchor core concepts and master the subject by doing  practical assignments.
 
 ## Step 1 : Learn About the culture of our company
 
@@ -68,7 +72,7 @@ Coding style is how your code looks, plain and simple. And by “your,” I actu
 ## Step 5 : Practical - Your real test here
 1. Go to this project : https://gitlab.iotiot.in/newbies/orientation
 
-2. Click on fork button which is at top right of the page, next to clone button, your this step will add orientation repository under your username.
+2. Click on fork button which is at top right of the page, next to clone button, your this step will add orientation repository under your user-name.
 ![fork1](extras/066.jpg)
 ![fork2](extras/067.jpg)
 
@@ -81,18 +85,20 @@ Coding style is how your code looks, plain and simple. And by “your,” I actu
     1. 20 hr Learning Video (Name your summary as : 20-hr-learning.md)
     1. Docker Basics (Name your summary as : docker-basics-summary.md)
 
-## Note:
+#### Note:
    * Summaries should be written in `Markdown`.
    * Summaries should be with `more images` and `less text`.
    * Summaries should be in `sections` (not big paragraphs).
    * Summaries should be `concise`, the lesser the better but `must cover all key points`.
 
-5. Practical on coding style. Choose one from C or CPP or Python programs(Based on following criteria) given in programs directory.
-   1. IoT-C(Product Innovator/Premium Job Seeker) : Choose C Program
-   1. IoT-CPP(Camera) and AI-CPP : Choose CPP Program
+5. Coding style Practical: Choose one from C or CPP or Python programs given in 
+programs directory. Choose programs on criteria given below.
+   1. IoT-C (Product Innovator/Premium Job Seeker) : Choose C Program
+   1. IoT-CPP (Camera) and AI-CPP : Choose CPP Program
    1. AI-Python : Choose Python Program
 
-   Format chosen program in respective coding styles.
+Format chosen program in respective coding styles. See an example of the
+formatted C code [here](programs/example_code.c).
 
 6. Commit all your changes (include all files in your directory)
 7. Push the changes to the remote repository
