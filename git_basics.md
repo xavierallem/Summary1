@@ -55,7 +55,7 @@ Git (probably) didn’t come installed on your computer, so we have to get it th
 
 For Linux, open the terminal and type 
 ```
-sudo apt-get install git-all 
+sudo apt-get install git 
 ```
 **Note** : It only works on Ubuntu. If not, there is a [list of all the Linux package installation commands](https://git-scm.com/download/linux) for whichever other distro you’re on.
 
