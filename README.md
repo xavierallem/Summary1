@@ -2,11 +2,8 @@
 
 #### What do you need? 
 You must have at-least 4-5 hours of free time, stable Internet, to complete all steps given here.
-You will have to read carefully, understand and do things.
+**You will have to read whole document carefully, understand and then do things**.
 
-## How to read the document
-- Scan through the document once and understand all the steps.
-- Then start to complete the steps.
 
 #### Index of what you will you learn?
 1. Culture and the Mission of IoTIoT.in and Shunya OS
@@ -41,7 +38,7 @@ We follow this approach throughout our learning process.
 
 ## Step 3 : Using Same OS to avoid OS issues
 We use Ubuntu 16.04 as our default OS. Please install it on to your system, so
-that you can work with us.  
+that you can work without OS issues.  
 
 Learn how to install Ubuntu 16.04 in this [guide](install_ubuntu.md) 
 
@@ -51,12 +48,9 @@ Please follow this [guide](git_basics.md)
 
 ## Step 4 (b) : Learn how to use GitLab
 
-We do all our work inside GitLab. And knowing the interface will help you get around.  
+GitLab is how we manage our Work. 
 
-
-* Learn about [Issues](https://docs.gitlab.com/ee/user/project/issues/) here.
-* Learn about [Repository](https://docs.gitlab.com/ee/user/project/repository/) here
-
+Watch this [video](https://www.youtube.com/watch?v=enMumwvLAug) to get familiar with the Gitlab interface and workflow.
 
 ## Step 4 (c) : Learn how to document like experienced developers
 Experienced developers write documentation in Markdown.  
@@ -93,8 +87,8 @@ Coding style is how your code looks, plain and simple. And by “your,” I actu
 
 5. Coding style Practical: Choose one from C or CPP or Python programs given in 
 programs directory. Choose programs on criteria given below.
-   1. IoT-C (Product Innovator/Premium Job Seeker) : Choose C Program
-   1. IoT-CPP (Camera) and AI-CPP : Choose CPP Program
+   1. IoT-C : Choose C Program
+   1. IoT-CPP and AI-CPP : Choose CPP Program
    1. AI-Python : Choose Python Program
 
 Format chosen program in respective coding styles. See an example of the
@@ -102,7 +96,7 @@ formatted C code [here](programs/example_code.c).
 
 6. Commit all your changes (include all files in your directory)
 7. Push the changes to the remote repository
-
+8. Comment the link to your forked project in this [Issue](https://gitlab.iotiot.in/newbies/orientation/issues/13).
 
 ------------------------------------------------
 
