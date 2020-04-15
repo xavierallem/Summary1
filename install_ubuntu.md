@@ -10,10 +10,13 @@ Please allocate these settings, for a smooth experience with VM.
 2. Atleast 4 GB of RAM
 3. Atleast 30 GB of storage space
 
-Only for people who have Dual-booted the laptop before without any help from others.
+---------------
+
 <details>
 <summary> <h3> Dual-boot (Not recommended) </h3> </summary>
 <p>
+
+Only for people who have Dual-booted the laptop before without any help from others. If you have not done it before Please install VM.
 
 1. [How to Install Ubuntu](/extras/Dual_Boot_PC.pdf)(dual boot,Windows PC)
 2. [How to Install Ubuntu](https://larryjordan.com/articles/create-a-dual-boot-mac-os-x-system/) (dual boot a MAC) 
