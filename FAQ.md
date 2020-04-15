@@ -8,7 +8,8 @@ Newer OSes have package incompatibility issues which we dont want to waste time 
 ### Q2 : I am having X problem while installing Ubuntu ... what should I do ?
 **Ans** : Google your issues/problems once you will definitely find the solution. 
 Try your best possible shot and still if do not find the solution, 
-Then and only then post it in [Issue](https://gitlab.iotiot.in/newbies/orientation/issues/1)
+Then and only then post it in [Issue](https://gitlab.iotiot.in/newbies/orientation/issues/1) 
+with all the solutions that you tried so far.
 
 
 ### Q3 : I have installed Ubuntu 16.04 on VM but it is very slow... what should I do ?
@@ -24,18 +25,28 @@ for a good experience with VM.
 Ubuntu 16.04 installed (atleast on VM) so there will be assignments that will require Ubuntu 16.04, 
 we dont recommend doing the skilling program on Windows.
 
+### Q5 : I am not getting access to the main repository to push my changes, what should I do ?
+**Ans** : 
+1. Fork the project. 
+2. Cloned the forked project (not the original project).
+3. Add your changes to the project.
+4. Push to the project.
 
-### Q5 : I am having problems while `git push` (pushing) my changes to the repo... what should I do ?
+This is caused when you are pushing to the original orientation project and not your forked project.
+
+### Q6 : I am having problems while `git push` (pushing) my changes to the repo... what should I do ?
 **Ans** :  Make sure you have cloned the correct repo (the one that you forked) and not the original project. 
 This is caused when you are pushing to the original orientation project and not your forked project. 
 If the issue still persists, Please write it in this [Issue](https://gitlab.iotiot.in/newbies/orientation/issues/1) with screen shots.
 
-### Q6 : How we will submit our work for evaluation? Evaluation is Grading or marks system? And if work is not satisfactory then we need to rework and resubmit it?
+### Q7 : How we will submit our work for evaluation? Evaluation is Grading or marks system? And if work is not satisfactory then we need to rework and resubmit it?
 **Ans** : You submit your work by commenting in the [Issue](https://gitlab.iotiot.in/newbies/orientation/issues/13). 
 Once you submit the assignments will be evaluated and marks will be assigned and Improvements will be suggested by the mentors. 
 The evaluation system is a marks based system. Each module has 100 marks 40 marks are needed to get access to the next module. 
 You can resubmit the assignments to increase your score based on the improvements suggested by the mentors.
 
+### Q8 : How will I know that I got access to the next module ?
+**Ans** : You can see the new module in your workspace on gitlab after clicking on Project tab which is at top-left of the page.
 
-### Q7 : I have a suggestion/feedback regarding the project, where should I put it ?
+### Q9 : I have a suggestion/feedback regarding the project, where should I put it ?
 **Ans** : You can put all your suggestions in the [Issue](https://gitlab.iotiot.in/newbies/orientation/issues/2)
