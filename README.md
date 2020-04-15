@@ -1,11 +1,13 @@
 # Orientation/On Boarding
 
+First step in your journey with us, this module will make you familiar with our workflow.
+
 #### What do you need? 
 You must have at-least 4-5 hours of free time, stable Internet, to complete all steps given here.
 **You will have to read whole document carefully, understand and then do things**.
 
 
-#### Index of what you will you learn?
+#### What you will you learn?
 1. Culture and the Mission of IoTIoT.in and Shunya OS
 1. Faster approach towards learning - 20hrs learning method 
 1. Basic Git Work-flow
