@@ -8,7 +8,7 @@ We recommend you to use Ubuntu 16.04 since it is easy for new developers.
 Please allocate these settings, for a smooth experience with VM.
 1. Alteast 4 cores for the VM
 2. Atleast 4 GB of RAM
-3. Atleast 30 GB of storage space
+3. Atleast 30GB(IoT) & 50GB(AI) of storage space.
 
 ---------------
 
