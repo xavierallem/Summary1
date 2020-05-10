@@ -25,7 +25,7 @@ Our Key **Innovations** are our **Processes** . We have arranged common course m
 
 ## To facilitate this we use Gitlab 
 1. Find all the reading material for the Module in the [Wiki](https://gitlab.iotiot.in/newbies/orientation/wikis/home)
-2. Find Steps for Assignments in the [Issues](https://gitlab.iotiot.in/newbies/orientation/issues/#16)
+2. Find Steps for Assignments (Summarize + Practice) in the [Issues](https://gitlab.iotiot.in/newbies/orientation/issues/#16)
 4. After completion of both Summary assignments and Practice Assignments submit your module for grading in [Issues](https://gitlab.iotiot.in/newbies/orientation/issues/#13)
 
 ------------------------------------------------
