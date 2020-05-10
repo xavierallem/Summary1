@@ -14,7 +14,7 @@ First step in your journey with us, this module will make you familiar with our 
 > **Innovation is seeing what everybody has seen and thinking what nobody has thought**.  
 Famous quote by Dr. Albert Szent-Györgyi, discovered Vitamin C.
 
-Our Key **Innovations** are our **Processes** .We have arranged common course material in a structured way learnt by training over 300 students and optimized to anchor core concepts and master the subject by doing  practical assignments.
+Our Key **Innovations** are our **Processes** . We have arranged common course material in a structured way learnt by training over 300 students and optimized to anchor core concepts and master the subject by doing  practical assignments.
 
 
 ## Mastery Process 
@@ -25,9 +25,8 @@ Our Key **Innovations** are our **Processes** .We have arranged common course ma
 
 ## To facilitate this we use Gitlab 
 1. Find all the reading material for the Module in the [Wiki](https://gitlab.iotiot.in/newbies/orientation/wikis/home)
-2. Find Steps for Summarizing as assignments in the [Issues](https://gitlab.iotiot.in/newbies/orientation/issues/#5)
-3. Find Steps for Practicing as assignments in the [Issues](https://gitlab.iotiot.in/newbies/orientation/issues/#5)
-4. After completion of both Summary assignments and Practice Assignments submit your module for grading in [Issues](https://gitlab.iotiot.in/newbies/orientation/issues/#5)
+2. Find Steps for Assignments in the [Issues](https://gitlab.iotiot.in/newbies/orientation/issues/#16)
+4. After completion of both Summary assignments and Practice Assignments submit your module for grading in [Issues](https://gitlab.iotiot.in/newbies/orientation/issues/#13)
 
 ------------------------------------------------
 
