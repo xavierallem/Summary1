@@ -32,9 +32,9 @@ This applies to this module as well.
 | Practice  (Assignment)    | Practice skills, to complete the learning process. This is where your brain learns the most.     |
 | Submit Assignments    | Submit assignments for grading and feedback from the mentors. |
 
-### Navigating in Gitlab 
+### Navigating  This Skilling Course in Gitlab 
 
-1. Understand Stage: Find the Reading Material for the Module in the Module Wiki.
+1. Understand Stage: Find the Reading Material for every Module in the Module Wiki.
 2. Summarize Assignments: Find the Summarize Assignments in the Module Issues.
 3. Practice Assignments: Find the Practice Assignments in the Module Issues. 
 4. Submitting Assignments: Find the Issue to submit Assignments in the Module Issues.
