@@ -1,6 +1,6 @@
-# Orientation/On Boarding
+# Orientation / On Boarding
 
-First step in your journey with us, this module will make you familiar with our workflow.
+This is the first step in your journey with us. This module will make you familiar with our workflow.
 
 #### What you will you learn?
 1. Culture and the Mission of IoTIoT.in and Shunya OS
@@ -14,17 +14,21 @@ First step in your journey with us, this module will make you familiar with our 
 > **Innovation is seeing what everybody has seen and thinking what nobody has thought**.  
 Famous quote by Dr. Albert Szent-Györgyi, discovered Vitamin C.
 
-Our Key **Innovations** are our **Processes** . We have arranged common course material in a structured way learnt by training over 300 students and optimized to anchor core concepts and master the subject by doing  practical assignments.
+Our Key **Innovations** are our **Processes**. We have arranged common course material in a structured way, learnt and optimized by training over 300 students to anchor core concepts and master the subject by doing practical assignments.
 
 
 ## How to complete the Module? (The Skilling Process)
-Learning a skill happens in 3 stages Understand, Summarize & Practice (USP). This applies to the module as well.
+Learning a skill happens in 3 stages(USP) :-
+- Understand (U)
+- Summarize (S)
+- Practice (P) 
+This applies to this module as well.
 
 | Process Stage | Description | 
 |---------------|-----------|
-| Understand    | Read course material and try to understand topics covered in the Module.           |
+| Understand    | Read the course material and try to understand topics covered in the Module.           |
 | Summarize (Assignment)     | Reinforce critical parts of the subject by writing them down in concise Summaries. |
-| Practice  (Assignment)    | Practice skills, to make your learning. This where your brain learns the most.     |
+| Practice  (Assignment)    | Practice skills, to complete the learning process. This is where your brain learns the most.     |
 | Submit Assignments    | Submit assignments for grading and feedback from the mentors. |
 
 ### Navigating in Gitlab 
