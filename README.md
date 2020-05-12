@@ -17,20 +17,20 @@ Famous quote by Dr. Albert Szent-Györgyi, discovered Vitamin C.
 Our Key **Innovations** are our **Processes**. We have arranged common course material in a structured way, learnt and optimized by training over 300 students to anchor core concepts and master the subject by doing practical assignments.
 
 
-## How to complete the Module? (The Skilling Process)
-Learning a skill happens in 3 stages(USP) :-
-- Understand (U)
-- Summarize (S)
-- Practice (P) 
+## How to complete each Module including orientation ? (The Skilling Process)
+Learning a skill  is divided into  3 stages(USP) :-
+- Stage 1- Understand (U)
+- Stage 2 -Summarize (S)
+- Stage 3- Practice (P) 
 
-This applies to this module as well.
+
 
 | Process Stage | Description | 
 |---------------|-----------|
 | Understand    | Read the course material and try to understand topics covered in the Module.           |
-| Summarize (Assignment)     | Reinforce critical parts of the subject by writing them down in concise Summaries. |
+| Summarize (Assignment)     | Reinforce critical parts of the subject by writing them down in concise  Summaries. |
 | Practice  (Assignment)    | Practice skills, to complete the learning process. This is where your brain learns the most.     |
-| Submit Assignments    | Submit assignments for grading and feedback from the mentors. |
+| Submit Assignments  | Submitted assignments are graded and get feedback from the mentors. |
 
 ### Navigating  This Skilling Course in Gitlab 
 
