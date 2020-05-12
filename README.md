@@ -18,15 +18,29 @@ Our Key **Innovations** are our **Processes** . We have arranged common course m
 
 
 ## How to complete the Module? (The Skilling Process)
-Learning a skill happes in 3 stages Understand, Summarize & Practice (USP). This applies to the module as well.
+Learning a skill happens in 3 stages Understand, Summarize & Practice (USP). This applies to the module as well.
 
-| Process Stage | Description                                                                        | Links      |
-|---------------|------------------------------------------------------------------------------------|------------|
-| Understand    | Read course material and try to understand topics covered in the Module.           | [Wiki](https://gitlab.iotiot.in/newbies/orientation/wikis/home)   |
-| Summarize (Assignment)     | Reinforce critical parts of the subject by writing them down in concise Summaries. | [Issues](https://gitlab.iotiot.in/newbies/orientation/issues/16) |
-| Practice  (Assignment)    | Practice skills, to make your learning. This where your brain learns the most.     | [Issues](https://gitlab.iotiot.in/newbies/orientation/issues/16) |
+| Process Stage | Description | 
+|---------------|-----------|
+| Understand    | Read course material and try to understand topics covered in the Module.           |
+| Summarize (Assignment)     | Reinforce critical parts of the subject by writing them down in concise Summaries. |
+| Practice  (Assignment)    | Practice skills, to make your learning. This where your brain learns the most.     |
+| Submit Assignments    | Submit assignments for grading and feedback from the mentors. |
 
-Last Step is to **Submit** your Summary and Practice Assignment in the [Issue](https://gitlab.iotiot.in/newbies/orientation/issues/13)
+### Navigating in Gitlab 
+
+1. Understand Stage: Find the Reading Material for the Module in the Module Wiki.
+2. Summarize Assignments: Find the Summarize Assignments in the Module Issues.
+3. Practice Assignments: Find the Practice Assignments in the Module Issues. 
+4. Submitting Assignments: Find the Issue to submit Assignments in the Module Issues.
+
+![Gitlab pointers](/extras/01.png)
+
+
+## Asking Questions/Queries about the Module
+Ask your questions in the respective Module Issues
+
+![Gitlab pointers](/extras/03.png)
 
 ------------------------------------------------
 
