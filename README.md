@@ -2,7 +2,7 @@
 
 This is the first step in your journey with us. This module will make you familiar with our workflow.
 
-#### What you will you learn?
+#### What you will you learn in Orientation module?
 1. Culture and the Mission of IoTIoT.in and Shunya OS
 1. Faster approach towards learning - 20hrs learning method 
 1. Basic Git Work-flow
