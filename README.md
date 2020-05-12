@@ -22,6 +22,7 @@ Learning a skill happens in 3 stages(USP) :-
 - Understand (U)
 - Summarize (S)
 - Practice (P) 
+
 This applies to this module as well.
 
 | Process Stage | Description | 
