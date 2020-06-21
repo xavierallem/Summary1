@@ -8,8 +8,7 @@ This is the first step in your journey with us. This module will make you famili
 1. Basic Git Work-flow
 1. Project management - GitLab Interface
 1. Document like a professional coder
-1. Docker Basics
-1. Coding Style
+
 
 > **Innovation is seeing what everybody has seen and thinking what nobody has thought**.  
 Famous quote by Dr. Albert Szent-Györgyi, discovered Vitamin C.
@@ -28,11 +27,11 @@ Learning a skill  is divided into  3 stages(USP) :-
 | Process Stage | Description | 
 |---------------|-----------|
 | Understand    | Read the course material and try to understand topics covered in the Module.           |
-| Summarize (Assignment)     | Reinforce critical parts of the subject by writing them down in concise  Summaries. |
+| Summarize (Assignment)     | Reinforce critical parts of the subject by writing them down in concise Summaries. |
 | Practice  (Assignment)    | Practice skills, to complete the learning process. This is where your brain learns the most.     |
 | Submit Assignments  | Submitted assignments are graded and get feedback from the mentors. |
 
-### Navigating  This Skilling Course in Gitlab 
+### Navigating This Skilling Course in Gitlab 
 
 1. Understand Stage: Find the Reading Material for every Module in the Module Wiki.
 2. Summarize Assignments: Find the Summarize Assignments in the Module Issues.
@@ -49,5 +48,3 @@ Ask your questions in the respective Module Issues
 
 ------------------------------------------------
 
-# Have Questions about the Process ?
-* Checkout our [FAQ section](https://gitlab.iotiot.in/newbies/orientation/wikis/FAQ)
