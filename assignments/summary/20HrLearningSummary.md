@@ -18,7 +18,9 @@ We have to commit ourselves to learn without any distractions.
 it will decline the learning curve.
 
 
+### Image for Reference
 
+ ![20hr Learning](assignments/summary/Assets/learn-anything-20-hours.png)
 
 ## Conclusion
 
