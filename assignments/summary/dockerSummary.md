@@ -73,5 +73,71 @@ $ sudo docker run hello-world
 
 ```
 
+## Basic Commands
+
+- **docker start**:- This command starts any stopped container(s).
+```bash
+$ docker start
+```
+- **docker stop**:- This command stops any running container(s).
+```bash
+$ docker stop
+```
+- **docker run**:- This command creates containers from docker images.
+```bash
+$ docker run
+```
+- **docker rm**:- This command is used to delete a stopped container.
+```bash
+$ docker rm
+```
+- **docker rmi**:- This command is used to delete an image from local storage.
+```bash
+$ docker rmi
+```
+- **docker pull**:- This command is used to pull images from the docker repository
+```bash
+$ docker pull
+```
+- **docker ps**:- This command is used to list the running containers.
+```bash
+$ docker ps
+```
+- **docker exec**:-  Runs a new command in a running container.COMMAND should be an executable. Here e0b72ff850f8 is the containerID.
+```bash
+docker exec -it e0b72ff850f8 chmod +x requirements.sh  
+docker exec -it e0b72ff850f8 /bin/bash ./requirements.sh
+docker start e0b72ff850f8
+docker exec e0b72ff850f8 python3 hello.py
+
+```
+- **docker kill**:-This command kills the container by stopping its execution immediately.
+```bash
+$ docker kill
+```
+- **docker commit  <username/imagename>**:- This command creates a new image of an edited container on the local system
+```bash
+$ docker commit  <username/imagename>
+```
+- **docker login**:- his command is used to login to the docker hub repository
+```bash
+$ docker login
+```
+- **docker push <username/image name>**:- This command is used to push an image to the docker hub repository
+```bash
+$ docker push <username/image name>
+```
+- **docker images**:- This command lists all the locally stored docker images.
+```bash
+$ docker images
+```
+- **docker build**:- This command is used to build an image from a specified docker file.
+```bash
+$ docker build
+```
+
+
+
+
 
 
