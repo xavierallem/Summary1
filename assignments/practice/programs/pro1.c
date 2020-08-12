@@ -15,6 +15,8 @@
  *  ---------------------
  *#####################################################################
  */
+ 
+ /* --- Standard Includes --- */
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -51,16 +53,16 @@ void main()
          printf(" File does not exist or can not be opened."); 
       } 
     else 
-        {   /*--- get the first character--*/
+        { /*--- get the first character--*/
           ch=fgetc(fptr); 
-            /*--- displaying filename--*/
+          /*--- displaying filename--*/
           printf(" The content of the file %s are : ",fname); 
-            /*--- while loop until End-Of-File condition--*/
+          /*--- while loop until End-Of-File condition--*/
           while(ch!=EOF) 
             { 
-                  /*--- print the char--*/
+                 /*--- print the char--*/
                 printf("%c",ch); 
-                  /*--- check for space or newline to identify a word--*/
+                 /*--- check for space or newline to identify a word--*/
                 if(ch==' '||ch=='\n')
                     { 
                      /*--- increment the word counter--*/
@@ -68,7 +70,7 @@ void main()
                     }
                     else
                     {
-                          /*--- increment the character counter--*/
+                    /*--- increment the character counter--*/
                         charctr++; 
                     }
                     /*--- get the next character--*/
