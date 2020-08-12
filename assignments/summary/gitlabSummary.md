@@ -24,3 +24,6 @@ such as branching strategy, Git best practices, and so on.
 - **STAGING**: Now it's time to deploy our code to a staging environment to check if everything worked as we were expecting or if we still need adjustments.
 - **PRODUCTION**: When we have everything working as it should, it's time to deploy to our production environment!
 - **FEEDBACK**: Now it's time to look back and check what stage of our work needs improvement. We use Cycle Analytics for feedback on the time we spent on key stages of our process.
+
+
+To learn more about GitLab [Click Here](https://youtu.be/enMumwvLAug)
