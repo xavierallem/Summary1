@@ -74,7 +74,7 @@ void main()
                     /*--- get the next character--*/
                 ch=fgetc(fptr); 
             }
-              /*--- display the file name,word count & character count --*/
+        /*--- display the file name,word count & character count --*/
         printf("\n The number of words in the  file %s are : %d\n",fname,wrd-2); 
         printf(" The number of characters in the  file %s are : %d\n\n",fname,charctr-1);         
         }
