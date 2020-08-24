@@ -1,6 +1,6 @@
 # Docker
 
- ![Docker](assignments/summary/Assets/1_ovRuAuqPf4r2xpiWh71rUg.png)
+ ![](assignments/summary/Assets/1_ovRuAuqPf4r2xpiWh71rUg.png)
 
 
 **Docker** is a tool designed to make it easier to create, deploy, and run applications by using containers. 
